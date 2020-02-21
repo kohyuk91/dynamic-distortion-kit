@@ -18,7 +18,7 @@
 1. Distortion
     - Model: 3DE Classic LD Model
     - Parameters:
-        1. Distortion: 0.0500(Frame 1), 0.0300(Frame 30), -0.0500(Frame 60)
+        1. Distortion: 0.0500(Frame 1), 0.0250(Frame 30), -0.0500(Frame 60)
         1. Anamorphic Squeeze, Curvature XY, Quartic Distortion: Default
 
 ### Dolly Zoom
