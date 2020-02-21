@@ -1,5 +1,3 @@
-## Dynamic Distortion Example
-
 ### Linear Zoom
 > ![](linear_zoom/linear_zoom.gif)
 1. Film Back: 36 X 20.25 mm
